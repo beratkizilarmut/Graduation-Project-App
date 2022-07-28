@@ -1,5 +1,5 @@
 # Graduation-Project-App
-# forked from SimpleBluetoothTerminal by kai-morich
+## forked from SimpleBluetoothTerminal by kai-morich
 
 Graduation Project Personal Works of
 
