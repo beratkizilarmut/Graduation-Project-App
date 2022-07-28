@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Glass App</string>
+    <string name="devices">Bluetooth Devices</string>
+</resources>
